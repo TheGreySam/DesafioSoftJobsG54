@@ -1,0 +1,19 @@
+{
+  "name": "desafiosoftjobsg54",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGreySam/DesafioSoftJobsG54.git"
+  },
+  "author": "Sebastian Gomez Letelier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGreySam/DesafioSoftJobsG54/issues"
+  },
+  "homepage": "https://github.com/TheGreySam/DesafioSoftJobsG54#readme"
+}
